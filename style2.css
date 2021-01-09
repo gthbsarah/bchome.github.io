@@ -1,0 +1,27 @@
+body {
+	background-image: url("green abstract.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px 80px 10px 80px;
+}
+
+div {
+	background-color: ivory;
+	margin: 20px;
+	padding: 5px 0px 20px 0px;	
+}
+
+h1 {
+	text-align: center;
+	margin: 10px 20px 0px 20px;
+}
+
+h3 {
+	margin: 0px 20px;
+	padding: 10px 0px 0px 0px;
+}
+
+p {
+	margin: 0px 20px;
+	padding: 2px 0px;
+}

@@ -1,0 +1,29 @@
+body {
+	background-image: url("green_Boston_ivy.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px 100px 10px 100px;
+}
+
+div {
+	background-color: ivory;
+}
+
+.nav-link:hover {
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	margin: 5px 20px;
+}
+
+.btn:hover {
+	background-color: darkgreen;
+	border-color: darkgreen;
+	border-width: 4px
+}
+
